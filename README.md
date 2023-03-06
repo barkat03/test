@@ -1,4 +1,6 @@
 # test
 to test
 ## hi
-**hello world**
+**hello world** -> boold == ** +text+ ** -> commend+b
+_hellow world_ -> italic 
+
